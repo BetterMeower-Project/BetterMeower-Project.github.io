@@ -1,2 +1,2 @@
-# BetterMeower-Project.github.io
-The BetterMeower Project's official website
+# Welcome to BetterMeower
+This is the BetterMeower Project's official website!
